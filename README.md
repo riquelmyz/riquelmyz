@@ -3,6 +3,6 @@ Aluno do Ismart Online desde 2019. Sempre tive bons desempenhos, recebendo certi
 Atualmente cursando Desenvolvimento de Sistemas estou apredendo Java e HTML, tenho conhecimentos básicos sobre lógica de programação.
 Já desenvolvi um mini-game em um projeto para a Oracle no Game4Good utilizando Javascript e o Phaser.
 Conhecimento básico sobre Python, C++, JS, HTML e Java.
-Linkedin: https://www.linkedin.com/in/riquelmy-marley-b63260212
+Linkedin: https://www.linkedin.com/in/riquelmy-marley
 Twitter: @riquelmyz
 Instagram: @riquelmyz
